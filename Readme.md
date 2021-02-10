@@ -1,6 +1,7 @@
-#Meu Portifólio
+# Meu Portifólio
 
-Nome:
-Email:
+### Dados para contato
+##### Nome:
+##### Email:
 
-@todos os direitos reservados 2021
+Todos os direitos reservados @2021.
